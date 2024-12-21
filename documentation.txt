@@ -1,0 +1,32 @@
+Name: Hemanth S
+Date: 27/11/24
+project: Arbitary precision Calculator
+
+Sample inputs:
+1->
+root@LAPTOP-GH45FCUE:~/APC# ./a.out 
+ERROR
+1. Addition     -> ./a.out op1 + op2
+2. Substraction -> ./a.out op1 - op2
+3. Multiply     -> ./a.out op1 x op2
+4. Division     -> ./a.out op1 / op2
+
+2->
+Addition
+root@LAPTOP-GH45FCUE:~/APC# ./a.out 12345678914343533434234 + 12345673454323456
+Result = 12345691260016987757690
+
+3->
+Substraction
+root@LAPTOP-GH45FCUE:~/APC# ./a.out 12345678914343533434234 - 12345673454323456
+Result = 12345666568670079110778
+
+4->
+Multiplication
+root@LAPTOP-GH45FCUE:~/APC# ./a.out 12345678914343533434234 x 1234
+Result = 15234567780299920257844756
+
+5->
+Division
+root@LAPTOP-GH45FCUE:~/APC# ./a.out 1234567891434353343423665654 / 13864
+Result = 089048463029021447159814
